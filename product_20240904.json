@@ -1,0 +1,73 @@
+{
+    "products": [
+    {
+        "product_id": "P001",
+        "product_name": "Smartphone X",
+        "category": "Electronics",
+        "price": 799.99,
+        "stock_quantity": 50,
+        "sales": [
+        {
+            "sale_id": "S001",
+            "date": "2024-09-01",
+            "quantity_sold": 5,
+            "revenue": 3999.95,
+            "customer_rating": 4.5
+        },
+        {
+            "sale_id": "S002",
+            "date": "2024-09-02",
+            "quantity_sold": 3,
+            "revenue": 2399.97,
+            "customer_rating": 4.7
+        }
+        ]
+    },
+    {
+        "product_id": "P002",
+        "product_name": "Laptop Pro",
+        "category": "Computers",
+        "price": 1299.99,
+        "stock_quantity": 30,
+        "sales": [
+        {
+            "sale_id": "S003",
+            "date": "2024-09-01",
+            "quantity_sold": 2,
+            "revenue": 2599.98,
+            "customer_rating": 4.8
+        },
+        {
+            "sale_id": "S004",
+            "date": "2024-09-03",
+            "quantity_sold": 4,
+            "revenue": 5199.96,
+            "customer_rating": 4.6
+        }
+        ]
+    },
+    {
+        "product_id": "P003",
+        "product_name": "Wireless Earbuds",
+        "category": "Accessories",
+        "price": 149.99,
+        "stock_quantity": 100,
+        "sales": [
+        {
+            "sale_id": "S005",
+            "date": "2024-09-02",
+            "quantity_sold": 10,
+            "revenue": 1499.90,
+            "customer_rating": 4.2
+        },
+        {
+            "sale_id": "S006",
+            "date": "2024-09-03",
+            "quantity_sold": 15,
+            "revenue": 2249.85,
+            "customer_rating": 4.4
+        }
+        ]
+    }
+    ]
+}
